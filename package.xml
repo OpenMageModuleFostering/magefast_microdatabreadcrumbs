@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <name>Magefast_MicrodataBreadcrumbs</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>AFL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Add microdata format for Breadcrumbs on page.</summary>
+    <description>The  extension will improve microdata format markup for Breadcrumbs. A breadcrumb trail is a set of links (breadcrumbs) that can help a user understand and navigate your site's hierarchy. This will good for your web-site in Google search result page.&#xD;
+</description>
+    <notes>First realize</notes>
+    <authors><author><name>Alex. [magefast.com]</name><user>alexhost</user><email>magento@magefast.com</email></author></authors>
+    <date>2015-04-04</date>
+    <time>13:17:11</time>
+    <contents><target name="mage"><dir name="app"><dir name="code"><dir name="community"><dir name="Magefast"><dir name="MicrodataBreadcrumbs"><dir name="Helper"><file name="Data.php" hash="478ffd1be6d5a1dd267f713d649158c8"/></dir><dir name="etc"><file name="config.xml" hash="4d94d2d8c70d2666d67d98dc482fd4bd"/></dir></dir></dir></dir></dir><dir name="etc"><dir name="modules"><file name="Magefast_MicrodataBreadcrumbs.xml" hash="e3780847fe70bc35bad1b155d5e294fb"/></dir></dir><dir name="design"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="microdata_breadcrumbs.xml" hash="60035c37a667a48dc70e98d6bc3fed0b"/></dir><dir name="template"><dir name="microdata_breadcrumbs"><dir name="page"><dir name="html"><file name="breadcrumbs.phtml" hash="e59c09cfe6152f4fa6ed73bcf4857538"/></dir></dir></dir></dir></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
