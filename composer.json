@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Magefast_MicrodataBreadcrumbs",
+    "name": "OpenMageModuleFostering\/Magefast_MicrodataBreadcrumbs",
     "type": "magento-module",
     "license": "AFL",
     "homepage": "",
     "description": "Add microdata format for Breadcrumbs on page.",
     "authors": [
-    {
-        "name": "Alex. [magefast.com]",
-        "email": "magento@magefast.com"
-    }
-],
+        {
+            "name": "Alex. [magefast.com]",
+            "email": "magento@magefast.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
